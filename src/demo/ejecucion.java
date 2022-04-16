@@ -8,11 +8,12 @@ public class ejecucion {
 		int y = 2;
 		int z = 3;
 		int m = 4;
-		
+		int k = 2020;
 		System.out.println(x);
 		System.out.println(y);
 		System.out.println(z);
 		System.out.println(m);
+		System.out.println(k);
 	}
 
 }
